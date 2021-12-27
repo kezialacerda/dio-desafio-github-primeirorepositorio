@@ -1,0 +1,8 @@
+comandos git 
+ git init --> iniciar repositório
+ git add --> adicionar arquivos aos indíces
+ git commit -m "escreva aqui uma obs" --> confirmar alterações
+ git config --> para definir valores de configurações
+ git clone --> verificação de repositório / cópia do repositório web para sua maq local
+ git status --> exibe lista de arq alterados e ainda não adicionados ou confirmados
+ git push --> envio de alterações
